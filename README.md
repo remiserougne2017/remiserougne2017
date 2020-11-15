@@ -10,11 +10,15 @@ Hello, my name is Rémi, I am 36 years old. I decided recently to do a professio
 I used in my different project the following tools and frameworks:
 <br>
 -a headless cms (strapi)
+<br>
 -a WebRTC Server (Janus)
+<br>
 -Gatsby
+<br>
 -Express
--Node.JS
--Expo
--Github
--Bitbucket
+<br>
+-Node.JS<br>
+-Expo<br>
+-Github<br>
+-Bitbucket<br>
 
