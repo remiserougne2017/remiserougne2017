@@ -8,6 +8,7 @@ Hello, my name is Rémi, I am 36 years old. I decided recently to do a professio
 - :sparkling_heart: I'm curious about making low-tech website
 
 I used in my different project the following tools and frameworks:
+<br>
 -a headless cms (strapi)
 -a WebRTC Server (Janus)
 -Gatsby
